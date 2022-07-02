@@ -29,4 +29,4 @@ You can download the data [from dropbox](https://www.dropbox.com/scl/fo/qzlq48k0
 In the tutorial you'll find the steps to recreate (and hopefully improve) the dataset and how to use it. 
 
 Please read our paper [here](https://arxiv.org/abs/2201.11192).
-For any questions, please reach out to gyri.reiersen@tum.de or david.dao@inf.eth.ch
+For any questions, please reach out to gyri.reiersen@tum.de or david.dao@inf.ethz.ch
